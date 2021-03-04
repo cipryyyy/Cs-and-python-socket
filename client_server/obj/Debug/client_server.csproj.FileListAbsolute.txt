@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.Properties.Resources.resources
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\client_server\client_server\bin\Debug\client_server.exe.config
+C:\Users\andre\source\repos\client_server\client_server\bin\Debug\client_server.exe
+C:\Users\andre\source\repos\client_server\client_server\bin\Debug\client_server.pdb
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.exe
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.pdb
+C:\Users\andre\source\repos\client_server\client_server\obj\Debug\client_server.Client.resources
